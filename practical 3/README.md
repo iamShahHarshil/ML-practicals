@@ -1,1 +1,2 @@
-####  Logistic Regression practical on titanic dataset
+## Practical 3
+### Implement Logistic Regression in R or python 
